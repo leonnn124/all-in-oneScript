@@ -44,8 +44,6 @@ install-dev-tools() {
     ## git
     echo -e "${YELLOW}Install GIT${CLEAR}"
     brew install git
-    git config --global user.email "tilda.lu@trunk-studio.com"
-    git config --global user.name "Tilda"
 
     ## yarn
     echo -e "${YELLOW}Install yarn${CLEAR}"
