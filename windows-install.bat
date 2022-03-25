@@ -1,39 +1,39 @@
 :: VS Code
 
-choco install-y vscode
+choco install -y vscode
 
 :: NodeJS
 
-choco install-y nodejs
+choco install -y nodejs
 
 :: Yarn
 
-choco install-y yarn
+choco install -y yarn
 
 :: Python
 
-choco install-y python3
+choco install -y python3
 
 :: chocolatey GUI
 
-choco install-y chocolateygui
+choco install -y chocolateygui
 
 :: Git
 
-choco install-y git
+choco install -y git
 
 :: WinRAR
 
-choco install-y winrar
+choco install -y winrar
 
 :: Google Chrome
 
-choco install-y googlechrome
+choco install -y googlechrome
 
 :: Line
 
-choco install-y line
+choco install -y line
 
 :: Spotify
 
-choco install-y spotify
+choco install -y spotify
